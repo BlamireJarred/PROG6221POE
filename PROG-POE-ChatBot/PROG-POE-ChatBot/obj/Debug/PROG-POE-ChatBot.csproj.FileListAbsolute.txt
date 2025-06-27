@@ -1,0 +1,14 @@
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\bin\Debug\PROG-POE-ChatBot.exe.config
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\bin\Debug\PROG-POE-ChatBot.exe
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\bin\Debug\PROG-POE-ChatBot.pdb
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\obj\Debug\PROG-POE-ChatBot.csproj.AssemblyReference.cache
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\obj\Debug\MainWindow.baml
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\obj\Debug\MainWindow.g.cs
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\obj\Debug\App.g.cs
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\obj\Debug\PROG-POE-ChatBot_MarkupCompile.cache
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\obj\Debug\PROG-POE-ChatBot.g.resources
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\obj\Debug\PROG_POE_ChatBot.Properties.Resources.resources
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\obj\Debug\PROG-POE-ChatBot.csproj.GenerateResource.cache
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\obj\Debug\PROG-POE-ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\obj\Debug\PROG-POE-ChatBot.exe
+C:\Users\jarre\OneDrive\Desktop\PROG6221 - POE Part 3 - st10452547\PROG-POE-ChatBot\PROG-POE-ChatBot\obj\Debug\PROG-POE-ChatBot.pdb
